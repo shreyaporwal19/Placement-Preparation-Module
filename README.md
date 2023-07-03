@@ -1,1 +1,5 @@
-# Placement-Preparation-Module
+# Placement-Preparation-Module (IT)
+NAME - SHREYA PORWAL
+ROLL NUMBER - 2000290310160
+SEMESTER - 7th
+SECTION - A
